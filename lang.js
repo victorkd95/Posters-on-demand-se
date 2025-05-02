@@ -1,0 +1,1 @@
+// Language switching functionality will go here
